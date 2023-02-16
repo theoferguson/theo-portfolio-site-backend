@@ -8,7 +8,8 @@
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
     "pg": "^8.9.0",
-    "pg-connection-string": "^2.5.0"
+    "pg-connection-string": "^2.5.0",
+    "strapi-provider-upload-cloudinary-folderoptions": "^0.0.3"
   },
   "name": "backend",
   "private": true,
